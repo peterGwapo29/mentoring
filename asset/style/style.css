@@ -1,0 +1,26 @@
+.navigation ul{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    color: white;
+    background-color: rgb(219, 56, 11);
+    list-style: none;
+}
+.parent{
+    width: 70%;
+    background-color: rgb(166, 166, 166);
+            /*T   R    B    L  */
+    padding: 10px;
+    margin-left: 100px;
+    border: 1px solid red;
+}
+.parent h1{
+    color: rgb(36, 38, 162);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.parent p{
+    color: rgb(255, 0, 119);
+}

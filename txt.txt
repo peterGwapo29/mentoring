@@ -1,0 +1,22 @@
+CSS:
+Internal, External, Inline
+
+List:
+nav
+unordered
+ordered
+other list
+
+Division - element is often used to group sections of a web page together.
+
+style:
+margin
+padding
+height/width
+borders
+fonts
+icons
+display
+position
+justify-content
+
