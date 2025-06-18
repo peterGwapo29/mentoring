@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(14, 106, 186);
+}
+h1, h2, h3, p{
+    color: white;
+}
+p{
+    font-size: 24px;
+}
+img{
+    height: 20rem;
+    width: 20rem;
+    border-radius: 200px;
+    border: 10px solid rgb(0, 188, 38);
+    /*       T     R    B    L */
+    margin: 100px 20px 30px 150px;
+    /* margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px; */
+}
+.first{
+    color: green;
+}
+#heading{
+    color: red;
+}
+#hOne{
+    color: orange;
+}
+h1{
+    background-color: white;
+    width: 50%;
+    padding: 50px;
+    margin-left: 200px;
+}
